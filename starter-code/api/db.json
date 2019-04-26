@@ -1,6 +1,13 @@
 {
   "characters": [
     {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
       "id": 2,
       "name": "Luke Skywalker",
       "occupation": "Jedi Knight",
@@ -13,37 +20,6 @@
       "occupation": "Lives under the sea",
       "weapon": "Crabby Patty",
       "cartoon": true
-    },
-    {
-      "name": "Jiraya",
-      "occupation": "Ninja",
-      "weapon": "Katana",
-      "id": 5,
-      "cartoon": "false"
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
-    },
-    {
-      "id": 11
-    },
-    {
-      "name": "sas",
-      "occupation": "skaposk",
-      "weapon": "soakspoak",
-      "id": 12
     }
   ]
 }
